@@ -1,0 +1,23 @@
+{
+  "name": "fn-whatsapp-bot",
+  "version": "1.0.1",
+  "description": "Whatsapp Bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Arfine Meka",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Terror-Machine/fn-whatsapp-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Terror-Machine/fn-whatsapp-bot/issues"
+  },
+  "homepage": "https://github.com/Terror-Machine/fn-whatsapp-bot",
+  "license": "MIT",
+  "dependencies": {
+    "@open-wa/wa-automate": "^2.0.26",
+    "fs-extra": "^9.0.1"
+  }
+}
